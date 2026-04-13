@@ -1,0 +1,2 @@
+# Optional: only needed to run python build.py (PyInstaller packager)
+pyinstaller>=6.0

@@ -1,0 +1,16 @@
+build/
+dist/
+QuartetPaymentCalculator-Release/
+*.spec
+__pycache__/
+**/__pycache__/
+*.py[cod]
+.Python
+*.egg-info/
+.eggs/
+
+# macOS / local venv
+.DS_Store
+build_env/
+venv/
+.env/
